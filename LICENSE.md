@@ -1,4 +1,4 @@
-
+ultimate Fantastical for macOS Plugin | widgets + export to PDF is the best Fantastical for macOS plugin, featuring widgets and export to PDF. Safe, efficient, and optimized for
 
 
 
